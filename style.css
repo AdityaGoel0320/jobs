@@ -1,0 +1,194 @@
+/* Universal */
+
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  font-family: sans-serif;
+  overflow-x: hidden;
+}
+
+
+
+/* Navbar  */
+.navbar {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+}
+
+.logo {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+}
+
+.logo img {
+  width: 20vh;
+}
+
+.navlist {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navlist ul {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navlist ul li {
+  list-style: none;
+  font-size: 1.5rem;
+}
+
+.navlist ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+.buttons {
+  width: 20%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.btn {
+  padding: 10px 30px;
+}
+
+/* Banner */
+.banner {
+  width: 100%;
+  height: 35vh;
+  background-color: palegreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner h1 {
+  font-size: 4rem;
+}
+
+
+
+
+/* ======================
+jobs.html styles start
+====================== */
+
+
+.box_cont {
+
+  display: flex;
+  gap: 2px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  margin: 20px;
+  font-weight: bold;
+  font-size: 38px;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  align-items:center;
+  height: 250px;
+  width: 250px;
+  color: black;
+
+  border-radius: 20px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+
+}
+
+
+.web {
+  background-image: url("Images/webimg.jpg");
+  color: white;
+}
+
+
+.cloud {
+  background-image: url("Images/cloudimg.jpg");
+  color: white;
+}
+
+.uiux {
+  background-image: url("Images/uiux.jpg");
+  color: white;
+
+}
+
+
+.android {
+  background-image: url("Images/android.jpg");
+  color: white;
+
+
+
+}
+
+.flutter {
+  background-image: url("Images/flutterimg.jpg");
+  color: white;
+
+}
+
+
+.react {
+  background-image: url("Images/react.jpg");
+  color: white;
+
+
+}
+
+
+.java {
+  background-image: url("Images/java.jpg");
+  color: white;
+
+}
+
+.c {
+  background-image: url("Images/c.jpg");
+  color: white;
+
+
+}
+
+
+.pages {
+  padding: 5rem 0rem;
+  text-align: center;
+}
+
+.pages a {
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+.pages a:hover {
+  background-color: royalblue;
+}
+
+
+
+/* ======================
+jobs.html styles end
+====================== */
