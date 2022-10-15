@@ -114,25 +114,25 @@ jobs.html styles start
 
 
 .web {
-  background-image: url("Images/webimg.jpg");
+  background-image: url("webimg.jpg");
   color: white;
 }
 
 
 .cloud {
-  background-image: url("Images/cloudimg.jpg");
+  background-image: url("cloudimg.jpg");
   color: white;
 }
 
 .uiux {
-  background-image: url("Images/uiux.jpg");
+  background-image: url("uiux.jpg");
   color: white;
 
 }
 
 
 .android {
-  background-image: url("Images/android.jpg");
+  background-image: url("android.jpg");
   color: white;
 
 
@@ -140,14 +140,14 @@ jobs.html styles start
 }
 
 .flutter {
-  background-image: url("Images/flutterimg.jpg");
+  background-image: url("flutterimg.jpg");
   color: white;
 
 }
 
 
 .react {
-  background-image: url("Images/react.jpg");
+  background-image: url("react.jpg");
   color: white;
 
 
@@ -155,13 +155,13 @@ jobs.html styles start
 
 
 .java {
-  background-image: url("Images/java.jpg");
+  background-image: url("java.jpg");
   color: white;
 
 }
 
 .c {
-  background-image: url("Images/c.jpg");
+  background-image: url("c.jpg");
   color: white;
 
 
